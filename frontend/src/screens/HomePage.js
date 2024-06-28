@@ -39,6 +39,10 @@ function HomePage() {
     fetchData();
   }, []);
 
+  useEffect(() => {
+    document.title = 'BEVERLY SHOP';
+  }, []);
+
   return (
     <div>
       <h1>Featured products</h1>

@@ -11,6 +11,7 @@ const data = {
       rating: 5,
       numRewies: 5,
       description: 'this is the description of the product 1',
+      countInStock: 13,
     },
     {
       name: 'Product 2',
@@ -23,6 +24,7 @@ const data = {
       rating: 4.9,
       numRewies: 3,
       description: 'this is the description of the product 2',
+      countInStock: 49,
     },
     {
       name: 'Product 3',
@@ -35,6 +37,7 @@ const data = {
       rating: 4.8,
       numRewies: 11,
       description: 'this is the description of the product 3',
+      countInStock: 1,
     },
     {
       name: 'Product 4',
@@ -47,6 +50,7 @@ const data = {
       rating: 5.0,
       numRewies: 15,
       description: 'this is the description of the product 4',
+      countInStock: 0,
     },
     {
       name: 'Product 5',
@@ -59,6 +63,7 @@ const data = {
       rating: 4.8,
       numRewies: 6,
       description: 'this is the description of the product 5',
+      countInStock: 11,
     },
     {
       name: 'Product 6',
@@ -71,6 +76,7 @@ const data = {
       rating: 4.9,
       numRewies: 36,
       description: 'this is the description of the product 6',
+      countInStock: 3,
     },
     {
       name: 'Product 7',
@@ -83,6 +89,7 @@ const data = {
       rating: 4.3,
       numRewies: 12,
       description: 'this is the description of the product 7',
+      countInStock: 6,
     },
     {
       name: 'Product 8',
@@ -95,6 +102,7 @@ const data = {
       rating: 4.0,
       numRewies: 14,
       description: 'this is the description of the product 8',
+      countInStock: 53,
     },
   ],
 };
